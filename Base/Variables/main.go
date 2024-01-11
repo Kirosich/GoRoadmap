@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Variables examples
 func main() {
 
 	// Variables that init and auto detecting types
